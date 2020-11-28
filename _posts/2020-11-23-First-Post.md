@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first post: #2 attempt
+title: My first post. #2 attempt
 ---
 You might ask: "Why did you start a blog?".
 Well, the answer might be not really looking very exciting.
