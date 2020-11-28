@@ -21,9 +21,9 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #484848;;
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #404040;
+  color: #d7d7d7;
   line-height: 1.7;
   font-weight: 400;
   font-size: 18px;
@@ -177,7 +177,7 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  color: #BCDEFF;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -270,7 +270,7 @@ p > img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #000;
 
   @include mobile {
     text-align: center;
@@ -415,7 +415,7 @@ nav {
   bottom: 0;
   width: 100%;
   height: 89px;
-  background-color: $lightGray;
+  background-color: #484848;
 }
 
 footer {
