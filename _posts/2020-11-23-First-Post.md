@@ -1,11 +1,11 @@
 ---
 layout: post
-title: My first post - #2 attempt
+title: My first post: #2 attempt
 ---
 You might ask: "Why did you start a blog?".
 Well, the answer might be not really looking very exciting.
 
-I want a place to rant. A place what can be accessed only if somebody wants to and has link (I will post link on my osu! profile "me!" section soon). I really wanted to separate it from, for example, my twitter account or mentioned earlier osu! profile "me!" section. Separate my personal thoughts about life and maybe self-deprecating babbling from being a player; a player, who has carved his ranks amount, his ranked score amount and few other things.
+I want a place to rant. A place what can be accessed only if somebody wants to and has link (I will post link on my osu! profile "me!" section soon). I really wanted to separate it from, for example, my twitter account or mentioned earlier osu! profile "me!" section. Separate my personal thoughts about life and maybe self-deprecating babbling from being a player; a player, who has carved his ranks amount, his ranked score amount and few other things. But maybe I won't entirely exclude osu! from this blog, rather some posts might be showing my thoghts about osu! affecting me mentally.
 
 I want to mention that in this moment I am listening to my music playlist on youtube. I would like to say something about it in the future..., so let's leave this topic for another post.
 
